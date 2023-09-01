@@ -38,7 +38,17 @@ var numberTwo = 7
 var comparison = numberOne > numberTwo
 // This is Boolean variables, they have only two values, true or false
 //Part 7 Own Your Own Part 1:
+var myFourthVariable: String
 
+myFourthVariable = "8"
+
+var myFifthVariable: String
+
+myFifthVariable = "8"
+
+var mySixthVariable = myFourthVariable == myFifthVariable
+ 
+print(mySixthVariable)
 
 //Part 8 Own Your Own Part 2
 
