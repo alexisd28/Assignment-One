@@ -21,6 +21,20 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//Part 9
+
+var myPart9Variable1: String
+myPart9Variable1 = "Hello "
+var myPart9Variable2: String
+myPart9Variable2 = "My "
+var myPart9Variable3: String
+myPart9Variable3 = "Name"
+
+var myPart9Variable4 = myPart9Variable1 + myPart9Variable2 + myPart9Variable3
+
+print(myPart9Variable4)
+
+
 //Assignment #3 Introduction to True and False
 
 var appState = false
